@@ -85,7 +85,7 @@ export default({
 .user-image-container {
     position: absolute;
     left: 45%;
-    top: 50%;
+    top: 30%;
 }
 .user-image {
     border-radius: 50%;
