@@ -24,6 +24,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # sam
 >>>>>>> 2971304864ac09657aa5fc158e0759ebc4fcdc75
+```
 
 ### Create new article in prismicData
 How to Create new article page in prismic. Click [here](https://docs.google.com/document/d/1ylHLclKL_hQuS9jZ1Fj5IzVmNF9HYL_9zbDt-pTrK7Q/edit)
